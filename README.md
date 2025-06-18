@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
 <h3 align="center">A Computer Information Systems Student from Canada!</h3>
 
-- 📫 Reach me at **contact@austinvc.ca**
+- 📫 Questions? Concerns? Feel free to reach out at **contact@austinvc.ca**
 
-- 📄 Check out my portfolio [https://austinvc.ca](https://austinvc.ca)
+- 📄 Or, head straight to my main site @ [austinvc.ca](https://austinvc.ca)
 
 
 <h3 align="left">Languages and Tools:</h3>
