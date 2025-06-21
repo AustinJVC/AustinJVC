@@ -1,10 +1,54 @@
-<h1 align="center">Hi 👋, I'm Austin</h1>
-<h3 align="center">A Computer Information Systems Student from Canada!</h3>
+<h1 align="center">Hey, I’m Austin 👋</h1>
+<h3 align="center">I build for the web, self-host what matters, and automate stuff I probably shouldn’t.</h3>
 
-- 📫 Questions? Concerns? Feel free to reach out at **contact@austinvc.ca**
+<p align="center">
+  <a href="https://austinvc.ca" target="_blank"><strong>🌐 austinvc.ca</strong></a>
+</p>
 
-- 📄 Or, head straight to my main site @ [austinvc.ca](https://austinvc.ca)
+---
 
+I’m currently finishing my Computer Information Systems degree out in Canada. I write code, break (and fix) everything, and ship software that’s both functional *and* intentional.  
+I’m into systems that respect users, tools that stay out of the way, and platforms that don't need a ToS longer than a novel.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+<details>
+<summary>🧠 <strong>What I’m into lately</strong></summary>
+
+- Full-stack web dev with **Next.js**, **Supabase**, **Tailwind**, and **Typescript**
+- Keeping my servers running smoothly with **Docker**, **Tailscale**, and **NGINX**
+- Hosting my own services because I trust myself more than most SaaS companies
+- Designing calm, focused user experiences with fewer distractions
+
+</details>
+
+<details>
+<summary>🛠️ <strong>What I use</strong></summary>
+
+- **Frontend**: Next.js (App Router), React, Tailwind, Vue.js  
+- **Backend**: Node.js, Supabase, PostgreSQL, MySQL, SQLite  
+- **Infra & DevOps**: Docker, Tailscale, NGINX, Cloudflare  
+- **Languages**: TypeScript, JavaScript, Java, Python, Bash, SQL  
+- **Other gear**: Linux, Git, Vercel
+
+</details>
+
+<details>
+<summary>⚙️ <strong>Homelab & VPS Shenanigans</strong></summary>
+
+- Self-hosting dashboards, media servers, monitoring software, websites, game servers, password managers, and more...  
+- Routing traffic through more encrypted tunnels & proxies than necessary... like a paranoid raccoon  
+- Running everything in proxied containers like a responsible adult  
+
+</details>
+
+---
+
+📬 You can reach me at: **austin@theslow.net**  
+🧭 Oh... and I'm also on The Slow Net: [theslow.net/austin](https://theslow.net/austin)
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,docker,nginx,python,nodejs,git,linux,bash,postgres,supabase,vercel" />
+</p>
