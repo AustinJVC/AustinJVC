@@ -7,8 +7,8 @@
 
 ---
 
-I’m currently finishing my Computer Information Systems degree out in Canada. I write code, break (and fix) everything, and ship software that’s both functional *and* intentional.  
-I’m into systems that respect users, tools that stay out of the way, and platforms that don't need a ToS longer than a novel.
+I’m currently finishing my Computer Information Systems degree out in Canada. I write code, break (then fix) everything, and ship stuff that’s built to be functional *and* intentional.  
+I’m into systems that respect users, tools that stay out of the way, and platforms that don't need a ToS as long as a novel.
 
 ---
 
@@ -34,17 +34,17 @@ I’m into systems that respect users, tools that stay out of the way, and platf
 </details>
 
 <details>
-<summary>⚙️ <strong>Homelab & VPS Shenanigans</strong></summary>
+<summary>⚙️ <strong>Homelab & Server Shenanigans</strong></summary>
 
 - Self-hosting dashboards, media servers, monitoring software, websites, game servers, password managers, and more...  
-- Routing traffic through more encrypted tunnels & proxies than necessary... like a paranoid raccoon  
-- Running everything in proxied containers like a responsible adult  
+- Routing traffic through more encrypted tunnels & proxies than necessary...  
+- Running everything in proxied containers like a responsible adult
 
 </details>
 
 ---
 
-📬 You can reach me at: **austin@theslow.net**  
+📬 You can reach me at: **contact@austinvc.ca**  
 🧭 Oh... and I'm also on The Slow Net: [theslow.net/austin](https://theslow.net/austin)
 
 ---
